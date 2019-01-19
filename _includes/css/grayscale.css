@@ -255,6 +255,7 @@ a:focus {
 
 .content-section {
     padding-top: 100px;
+    background: url(/img/downloads-bg.jpg) no-repeat center center scroll;
 }
 
 .download-section {
