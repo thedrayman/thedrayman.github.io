@@ -5,11 +5,8 @@ url: http://drayman.online
 description: "Just another blog about security"
 github_username: thedrayman
 
-
-
 # Build settings
 markdown: kramdown
-<<<<<<< HEAD
 plugins:
     - jekyll-feed
     - jekyll-watch
@@ -55,8 +52,4 @@ author:
     - label: "E68B 959D 5578 1895"
       icon: "fas fa-fw fa-key"
 url: ""
-=======
-permalink: pretty
 
-theme: jekyll-theme-minimal
->>>>>>> 2b33de3d6bb7300581f4718269a920ad5c933959
