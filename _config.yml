@@ -7,16 +7,12 @@ github_username: thedrayman
 
 # Build settings
 markdown: kramdown
-plugins:
-    - jekyll-feed
-    - jekyll-watch
-    - jekyll-include-cache
 
 # GitHub pages settings
 repository: thedrayman/thedrayman.github.io
 
 # Theme settings
-remote_theme: "mmistakes/minimal-mistakes@4.14.1"
+theme: jekyll-theme-minimal
 paginate: 5
 paginate_path: /page:num/
 permalink: /:categories/:title/
