@@ -1,28 +1,56 @@
 # Site settings
-title: DrayFend
+title: Drayman's Blog
 email: drayman@pm.com
-url: https://drayman.kulturdroge.de
+url: http://drayman.online
 description: "Just another blog about security"
+github_username: thedrayman
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary-dark: '#000000'
-  links: '#219ab3'
 
-# Footer settings
-footer: Made with heart
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: https://twitter.com/
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/
-  - title: github
-    url: https://github.com/
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+plugins:
+    - jekyll-feed
+    - jekyll-watch
+    - jekyll-include-cache
+
+# GitHub pages settings
+repository: thedrayman/thedrayman.github.io
+
+# Theme settings
+remote_theme: "mmistakes/minimal-mistakes@4.14.1"
+paginate: 5
+paginate_path: /page:num/
+permalink: /:categories/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+
+author:
+  name: "Florian Euchner"
+  avatar: "/assets/images/avatar.png"
+  bio: "EE Student @ University of Stuttgart"
+  location: "Nürtingen, Germany"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Jeija"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/Jeija"
+    - label: "Hacker News"
+      icon: "fab fa-fw fa-hacker-news-square"
+      url: "https://news.ycombinator.com/user?id=Jeija"
+    - label: "jeija@jeija.net"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:jeija@jeija.net"
+    - label: "Keybase"
+      icon: "fab fa-fw fa-keybase"
+      url: "https://keybase.io/Jeija"
+    - label: "E68B 959D 5578 1895"
+      icon: "fas fa-fw fa-key"
+url: ""
