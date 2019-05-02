@@ -6,7 +6,7 @@ description: "Just another blog about security"
 logo: /assets/images/logo.jpg
 footer: "W.I.P"
 github_username: thedrayman
-auhtor: drayman
+author: drayman
 
 # Build settings
 markdown: kramdown
