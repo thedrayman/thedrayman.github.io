@@ -3,6 +3,7 @@ layout: default
 section: blog
 ---
 	<h1>{{ site.title }} - Blog</h1>
+	<span><a href="archive/">Archive</a> ({{ site.posts | size }} posts)</span>
 	<ul class="posts">
 
 	  {% for post in site.posts %}
