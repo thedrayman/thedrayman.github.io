@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ##About
 Hi! I'm a computer scientist, system administrator and IT security enthusiast.
 
