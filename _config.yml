@@ -16,9 +16,27 @@ plugins:
 repository: thedrayman/thedrayman.github.io
 
 # Theme settings
-remote_theme: "mmistakes/minimal-mistakes@4.16.2"
+remote_theme: mmistakes/minimal-mistakes
 paginate: 5
 paginate_path: /page:num/
 permalink: /:categories/:title/
+
+author:
+  name   : "First Lastname"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+url: "https://instagram.com/"
 
 
