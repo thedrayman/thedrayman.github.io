@@ -1,9 +1,3 @@
-source "https://rubygems.org" do
+source "https://rubygems.org"
 
-	group :jekyll_plugins do
-		gem "github-pages"
-		gem "jekyll-remote-theme"
-		gem "jekyll-watch"
-		gem "jekyll-include-cache"
-	end
-end
+gem "github-pages", group: :jekyll_plugins
