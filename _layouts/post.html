@@ -6,7 +6,7 @@ section: blog
 <small>{{ page.date | date: "%-d %B %Y" }}</small>
 <h1>{{ page.title }}</h1>
 
-<p class="view">by {{ page.author | default: site.author }}</p>
+<p class="view">by {{ post.author | default: site.author }}</p>
 
 {{content}}
 
