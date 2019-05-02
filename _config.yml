@@ -10,7 +10,6 @@ github_username: thedrayman
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-remote-theme
   - jekyll-include-cache
 
 # GitHub pages settings
