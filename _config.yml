@@ -2,8 +2,8 @@
 title: Drayman's Blog
 email: drayman@pm.com
 url: http://drayman.online
-description: "Just another blog about security"
-logo: /assets/images/logo.jpg
+description: ""
+#logo: /assets/images/logo.jpg
 footer: "W.I.P"
 github_username: thedrayman
 
@@ -27,26 +27,32 @@ permalink: /:categories/:title/
 # Site Author
 author:
   name             : "Drayman"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Germany"
+  avatar           : /assets/images/logo.jpg
+  bio              : "Just another blog about security"
+  location         : "Kassel, Germany"
   email            :  "me@you.de"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:me@you.de
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/"
+    - label: "Keybase"
+      icon: "fab fa-fw fa-keybase"
+      url: "https://keybase.io/"
+    - label: "W.I.P."
+      icon: "fas fa-fw fa-key"
+      url: ""
