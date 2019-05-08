@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /about/
+title: "About"
 author_profile: true
 ---
 ## Some words about the person behind
