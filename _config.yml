@@ -4,7 +4,7 @@ email: drayman@pm.com
 url: http://drayman.online
 description: ""
 #logo: /assets/images/logo.jpg
-footer: "W.I.P"
+footer: "still w.i.p. but with <3"
 github_username: thedrayman
 
 # Build settings
@@ -17,7 +17,6 @@ plugins:
 repository: thedrayman/thedrayman.github.io
 
 # Theme settings
-#theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.16.2"
 minimal_mistakes_skin : "dark"
 paginate: 5
@@ -28,28 +27,21 @@ permalink: /:categories/:title/
 author:
   name             : "Drayman"
   avatar           : /assets/images/logo.jpg
-  bio              : "Just another blog about security"
+  bio              : "Just another opinion about computer science and IT security"
   location         : "Kassel, Germany"
-  email            :  "me@you.de"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:me@you.de
+      url: mailto:drayman@pm.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/"
+      url: "https://drayman.online
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/thedrayman"
     - label: "Keybase"
       icon: "fab fa-fw fa-keybase"
       url: "https://keybase.io/"
