@@ -18,7 +18,7 @@ repository: thedrayman/thedrayman.github.io
 
 # Theme settings
 remote_theme: "mmistakes/minimal-mistakes@4.16.2"
-minimal_mistakes_skin : "dark"
+minimal_mistakes_skin : "dirt"
 paginate: 5
 paginate_path: /page:num/
 permalink: /:categories/:title/
