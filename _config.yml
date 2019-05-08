@@ -56,3 +56,7 @@ author:
     - label: "W.I.P."
       icon: "fas fa-fw fa-key"
       url: ""
+      
+# Reading Files
+include:
+  - _pages
