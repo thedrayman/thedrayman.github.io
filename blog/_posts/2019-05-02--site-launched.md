@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "New site online"
 date: 2019-04-30
 tags: site new test
