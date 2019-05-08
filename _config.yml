@@ -1,20 +1,16 @@
 # Site settings
-title: Drayman's Blog
+title: Drayman's Honeypot
 email: drayman@pm.com
 url: http://drayman.online
 description: ""
-#logo: /assets/images/logo.jpg
-footer: "still w.i.p. but with <3"
 github_username: thedrayman
+repository: thedrayman/thedrayman.github.io
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
-
-# GitHub pages settings
-repository: thedrayman/thedrayman.github.io
 
 # Theme settings
 remote_theme: "mmistakes/minimal-mistakes@4.16.2"
@@ -25,9 +21,9 @@ permalink: /:categories/:title/
 
 # Site Author
 author:
-  name             : "Drayman"
-  avatar           : /assets/images/logo.jpg
-  bio              : "Just another opinion about computer science and IT security"
+  name             : "Fabian Froelich"
+  avatar           : /assets/images/myself.jpg
+  bio              : "Just another guy talking about computer science and IT security"
   location         : "Kassel, Germany"
   links:
     - label: "Email"
