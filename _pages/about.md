@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /about/
-title: "Behind the net"
+title: "About"
 author_profile: true
 last_modified_at: 2019-05-09
 toc: true
@@ -13,5 +13,4 @@ I'm a former student of computer science in the Department of Electrical Enginee
 
 In my free time, I likes music, movies, sport and time with friends and family. Furthermore, from time to time I go on a Geocaching trip. I'm voluntary working for a sports club.
 
-## 
-Facts
+## Facts
