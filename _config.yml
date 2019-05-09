@@ -26,10 +26,10 @@ author:
   bio              : "Just another guy talking about computer science and IT security"
   location         : "Kassel, Germany"
   links:
-    - label: "Email"
+    - label: "drayman@pm.com"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:drayman@pm.com
-    - label: "Website"
+    - label: "Dray's Honeypot"
       icon: "fas fa-fw fa-link"
       url: "https://drayman.online"
     #- label: "Twitter"
