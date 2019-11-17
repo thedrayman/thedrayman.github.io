@@ -41,6 +41,10 @@ p {
   line-height: 1.5;
 }
 
+img.profile {
+	border-radius: 60%;
+}
+
 .wrapper {
   background: #4B6A78;
   max-width: 960px;
