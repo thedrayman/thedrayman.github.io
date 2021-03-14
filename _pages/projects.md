@@ -1,12 +1,12 @@
 ---
 layout: single
 permalink: /projects/
-title: "What I've done"
+title: "Project Overview"
 author_profile: true
-last_modified_at: 2019-05-10
+last_modified_at: 2021-03-14
 toc: false
 ---
-## Overview
+## University projects
 
 | Topic | Type | Date |
 | ---- | ---- | ---- |
