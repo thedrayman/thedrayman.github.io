@@ -1,5 +1,5 @@
 # Site settings
-title: Drayman's Honeypot
+title: Drayman's Home
 email: drayman@pm.com
 url: http://drayman.online
 description: ""
@@ -29,21 +29,12 @@ author:
     - label: "drayman@pm.com"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:drayman@pm.com
-    - label: "Dray's Honeypot"
+    - label: "Draymans home"
       icon: "fas fa-fw fa-link"
       url: "https://drayman.online"
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/thedrayman"
-    - label: "Keybase"
-      icon: "fab fa-fw fa-keybase"
-      url: "https://keybase.io/"
-    - label: "W.I.P."
-      icon: "fas fa-fw fa-key"
-      url: ""
       
 # Reading Files
 include:
