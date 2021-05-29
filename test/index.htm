@@ -6,7 +6,11 @@
 
         <script>
            var d = new Date();
+           var n = d.getDay;
+           if (n == 4)
             document.getElementById("demo").innerHTML = d.toDateString();
+        else 
+            document.getElementById("demo").innerHTML = "false";
         </script>
     </body>
 </html>
